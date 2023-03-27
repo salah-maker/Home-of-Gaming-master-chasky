@@ -1,0 +1,11 @@
+$primary: #0465e3;
+$secondary: #ff1525;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.square {
+  display: block;
+  width: 2rem;
+  height: 2rem;
+  background-color: #114b98;
+}
