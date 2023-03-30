@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter,Route,Routes,NavLink } from "react-router-dom";
-import Logo from "/img/logo.png"
+import Logo from "/img/logo PNG.png"
 import "./index.scss"
 import Bootcamp from "../../pages/bootcamp/bootcamp";
 import Tarif from "../../pages/tarif/tarif";
@@ -14,7 +14,7 @@ const NavBar = () => {
     <BrowserRouter>
     <>
  <div className="container-xl" >
-      <nav className="navbar navbar-expand-lg" id="navbar" style={{marginBottom:'150px'}} >
+      <nav className="navbar navbar-expand-lg" id="navbar" style={{marginBottom:'0px'}} >
         <div className="container">
           <a className="navbar-brand" href="index.html" id="logo">
             <span>
